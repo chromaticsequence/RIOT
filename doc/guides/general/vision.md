@@ -13,14 +13,14 @@ software platforms powering smartphones.
 
 In a few years time, software platforms powering smart handheld devices has
 speed-evolved from a state where dozens of closed-source, slow progress,
-proprietary solutions where used, to a state where a couple of major players
+proprietary solutions were used, to a state where a couple of major players
 have imposed new de facto standards in terms of software platform openness,
 interoperability, and automatic updating. On the bright side, this has led to
 much quicker paced progress, and to the development of billions of new
 applications built on top of these platforms, which interact in innovative ways
 with one another and with the cloud. At this point, let's make two remarks about
 the dark side of this evolution. First, while companies pushing iOS and Android
-use such software platforms as more tools to achieve profit-oriented goals
+use such software platforms more as tools to achieve profit-oriented goals
 (e.g., accumulating and monetizing personalized information), RIOT is developed
 and maintained by a non-profit, open source community of developers organized
 around principles that are mainly inspired by the Linux community or the IETF
